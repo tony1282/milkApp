@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "595926242490",
+    "project_id": "milkproyect",
+    "storage_bucket": "milkproyect.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595926242490:android:edd7768dde1de289ff1e83",
+        "android_client_info": {
+          "package_name": "com.ranch.milk_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595926242490-77c12bk3ul8cdhvmeaq49m5qkb6au4kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD9tl9ZY2ehaQSjIr6EGwiCnKpo7RmB3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595926242490-77c12bk3ul8cdhvmeaq49m5qkb6au4kf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595926242490:android:22732d15f45825c9ff1e83",
+        "android_client_info": {
+          "package_name": "com.ranch.milk_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595926242490-77c12bk3ul8cdhvmeaq49m5qkb6au4kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD9tl9ZY2ehaQSjIr6EGwiCnKpo7RmB3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595926242490-77c12bk3ul8cdhvmeaq49m5qkb6au4kf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
